@@ -483,11 +483,11 @@ export default function Portfolio() {
         <div className="container mx-auto px-6">
           <motion.div initial={{ opacity: 0, y: 50 }} whileInView={{ opacity: 1, y: 0 }} className="text-center mb-16">
             <h2 className={`text-5xl font-bold ${theme === "dark" ? "text-white" : "text-gray-800"} mb-6`}>
-              Let's Connect
+              Let&#39;s Connect
             </h2>
             <p className={`text-xl ${theme === "dark" ? "text-gray-300" : "text-gray-600"} max-w-2xl mx-auto`}>
-              Ready to bring fresh perspectives and analytical expertise to your organization. Let's discuss how I can
-              contribute to your team's success.
+              Ready to bring fresh perspectives and analytical expertise to your organization. Let&#39;s discuss how I can
+              contribute to your team&#39;s success.
             </p>
           </motion.div>
 
